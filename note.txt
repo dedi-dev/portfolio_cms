@@ -1,0 +1,6 @@
+package to install in React project
+1. @sanity/client
+2. @sanity/image-url
+3. framer-motion
+4. node-sass
+5. react-icons
