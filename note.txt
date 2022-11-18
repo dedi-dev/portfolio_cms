@@ -4,3 +4,4 @@ package to install in React project
 3. framer-motion
 4. node-sass
 5. react-icons
+6. react-tooltip
